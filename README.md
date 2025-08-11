@@ -8,9 +8,3 @@ Includes:
 - My edited version of `week1_demo-1.ipynb`
 - Verified and run in Jupyter
 - Environment setup completed
-
-# Midterm Data Exploration Project
-This repository contains my project for Midterm Data Exploration of the Data Analytics class.  
-Includes:
-- Midterm Data Exploration Project files and documentation
-- Includes data cleaning, exploratory analysis, and final project report submission
